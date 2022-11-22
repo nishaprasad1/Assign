@@ -1,0 +1,30 @@
+D:\Assignments\DotNet\Assignment3\DemoApp\bin\Debug\net6.0\DemoApp.exe
+D:\Assignments\DotNet\Assignment3\DemoApp\bin\Debug\net6.0\DemoApp.deps.json
+D:\Assignments\DotNet\Assignment3\DemoApp\bin\Debug\net6.0\DemoApp.runtimeconfig.json
+D:\Assignments\DotNet\Assignment3\DemoApp\bin\Debug\net6.0\DemoApp.dll
+D:\Assignments\DotNet\Assignment3\DemoApp\bin\Debug\net6.0\DemoApp.pdb
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\DemoApp.csproj.AssemblyReference.cache
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfoInputs.cache
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\DemoApp.AssemblyInfo.cs
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\DemoApp.csproj.CoreCompileInputs.cache
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\DemoApp.dll
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\refint\DemoApp.dll
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\DemoApp.pdb
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\DemoApp.genruntimeconfig.cache
+D:\Assignments\DotNet\Assignment3\DemoApp\obj\Debug\net6.0\ref\DemoApp.dll
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\DemoApp.csproj.AssemblyReference.cache
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\DemoApp.AssemblyInfoInputs.cache
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\DemoApp.AssemblyInfo.cs
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\DemoApp.csproj.CoreCompileInputs.cache
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\DemoApp.dll
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\refint\DemoApp.dll
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\DemoApp.pdb
+D:\Assignments\DotNet\Assignment 4\bin\Debug\net6.0\DemoApp.exe
+D:\Assignments\DotNet\Assignment 4\bin\Debug\net6.0\DemoApp.deps.json
+D:\Assignments\DotNet\Assignment 4\bin\Debug\net6.0\DemoApp.runtimeconfig.json
+D:\Assignments\DotNet\Assignment 4\bin\Debug\net6.0\DemoApp.dll
+D:\Assignments\DotNet\Assignment 4\bin\Debug\net6.0\DemoApp.pdb
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\DemoApp.genruntimeconfig.cache
+D:\Assignments\DotNet\Assignment 4\obj\Debug\net6.0\ref\DemoApp.dll
